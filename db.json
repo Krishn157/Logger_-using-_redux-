@@ -1,0 +1,30 @@
+{
+  "logs": [
+    {
+      "message": "Fixed error in the terminal",
+      "attention": false,
+      "tech": "Krishn Kumar",
+      "date": "2020-03-25T16:09:56.432Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "India ko lockdown kiya ... oo yeah",
+      "attention": true,
+      "tech": "Narendra Modi",
+      "date": "2020-03-25T16:49:23.714Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
